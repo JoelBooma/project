@@ -1,0 +1,126 @@
+.fa
+{
+    color: rgb(177, 174, 174);
+    
+}
+.fa-solid{
+    color: white;
+}
+
+.fa:hover{
+    color: white;
+}
+ul{
+position: fixed;
+list-style-type:none;
+margin-top: 20%;
+}
+#navi{
+    background-color: black;
+}
+.col-sm-10{
+    background-color: rgb(18, 18, 18);
+}
+a{
+    color:white ;
+     text-decoration: none;
+}
+img{
+    padding: 10px;
+}
+h1{
+    color:WHITE;
+}
+.navbar{
+    background-color: black;
+    position: fixed;
+}
+#login{
+    float: right;
+    border-radius:5px ;
+}
+#signin{
+   float: left;
+   margin-top: 5px;
+}
+.fa-chevron-left
+{
+    margin-right:10%;
+    margin-top:3%;
+}
+.fa-chevron-right{
+margin-left: 5%;
+
+}
+li{
+    line-height: 40px;
+    margin-top: 10px;
+
+}
+.fa-registered{
+    position: relative;
+    top:-12px;
+    font-size: xx-small;
+}
+.card:hover .fa-circle-play{
+     opacity : 0.8;
+}
+.card:hover{
+    background-color: rgb(38, 37, 37); 
+}
+#icon{
+    color: white;
+}
+#icon2{
+    color: white;
+}
+#icon3{
+    color: white;
+}
+#cover{
+    padding: 0px;
+    margin: 0%;
+}
+
+.num{
+    height: 40px;
+    width: 35px;
+    padding: 0px;
+}
+
+.fa-circle-play{
+    margin-left: 106px;
+    margin-top: -78%;
+    font-size: 45px;
+    color: #59d8f8;
+    opacity: 0.0;
+    position: absolute;
+    
+
+}
+.card-img{
+    border-radius: 50%;
+  }
+
+.card-text{
+    color: white;
+}
+#h{
+    margin-top: 10%;
+}
+
+
+img{
+    max-width:auto;
+    max-height:70%;
+}
+.card{
+    background-color:   rgb(27, 27, 27);
+}
+p{
+    color: white;
+}
+#A{
+    color: white;
+    font-style: italic;
+}
